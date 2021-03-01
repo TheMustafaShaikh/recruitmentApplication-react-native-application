@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737116131354",
+    "project_id": "recruitmentapp-d6099",
+    "storage_bucket": "recruitmentapp-d6099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737116131354:android:3c93d1a714765fe63481a3",
+        "android_client_info": {
+          "package_name": "com.campusrecruitmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737116131354-2bo61onbjdtscghbulmcfg6eg3bngla2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYCGQaIsGgbnHNQwjWPCyYEe3EVg4WQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737116131354-2bo61onbjdtscghbulmcfg6eg3bngla2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
